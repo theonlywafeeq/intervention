@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">Click me to display the Date and Time.</button>
 
+<h1 id="demo"></h1>
+
 https://github.com/theonlywafeeq/intervention/blob/master/planner.html 
 
 ### Markdown
