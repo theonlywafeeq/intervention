@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/theonlywafeeq/intervention
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<button type="button" onclick="document.getElementById('demo').innerHTML = Date()">Click me to display the Date and Time.</button>
+<button type="button" onclick="document.getElementById('demo').innerHTML = Date()" offclick="document.getElementById('demo').innerHTML = """>Click me to display the Date and Time.</button>
 
 <h1 id="demo"></h1>
 
